@@ -1,2 +1,2 @@
-# Git使用
-Git命令行的使用
+# 学习笔记
+Study notes!
